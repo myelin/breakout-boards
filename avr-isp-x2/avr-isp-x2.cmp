@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-02 BZR 5348)-product   date = 1/13/2015 10:20:25 PM
+
+BeginCmp
+TimeStamp = /54B60A2F;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B60A64;
+Reference = CON2;
+ValeurCmp = AVR-ISP-6;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+EndListe
