@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-02 BZR 5348)-product   date = 1/20/2015 11:27:37 PM
+
+BeginCmp
+TimeStamp = /54BF5376;
+Reference = P1;
+ValeurCmp = TARGET;
+IdModule  = footprints:pin_array_5x2_50mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BF53DB;
+Reference = P2;
+ValeurCmp = UART;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BF53AA;
+Reference = P3;
+ValeurCmp = PROGRAMMER;
+IdModule  = footprints:pin_array_5x2_50mil;
+EndCmp
+
+EndListe
