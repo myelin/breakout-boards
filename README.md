@@ -1,5 +1,5 @@
 # breakout-boards
-Various simple breakout boards for electronic prototyping
+Various simple breakout boards for electronic prototyping, from Phillip Pearson.
 
 ## avr-isp-x2
 
