@@ -25,6 +25,8 @@ An SWD connector, and a bunch of pin headers.  This lets you:
 Very simple power supply, to make it easy to get 5V and 3.3V from a spare USB port.
 
 Requires:
-* A USB A plug, or a bottom-mount micro USB socket.
+* A USB A plug, or a bottom-mount micro USB socket
 * A TLV1113LV33 SOT-223 type 3.3V LDO regulator
 * 2x6 0.1" pin header
+
+Alternatively, solder a JST-PH Li-Po battery connector onto the USB GND/5V pin holes, and a lower dropout voltage regulator like the SOT-89-8 MCP1700T-3302E/MB, to get 3.3V from a battery.
