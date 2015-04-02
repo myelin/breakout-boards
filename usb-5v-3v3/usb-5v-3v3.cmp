@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-02 BZR 5348)-product   date = 4/1/2015 10:50:33 PM
+
+BeginCmp
+TimeStamp = /551CC528;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = myelin-kicad:SM0805_NOSILKSCREEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC59D;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = myelin-kicad:SM0805_NOSILKSCREEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC3CC;
+Reference = CON1;
+ValeurCmp = usb_plug;
+IdModule  = myelin-kicad:USB_A_THRU_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC4A1;
+Reference = CON2;
+ValeurCmp = micro_usb_socket;
+IdModule  = myelin-kicad:micro_usb_b_smd_bottom_mount;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC73C;
+Reference = P1;
+ValeurCmp = 5V;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC665;
+Reference = P2;
+ValeurCmp = 3.3V;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC6A2;
+Reference = P3;
+ValeurCmp = GND;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CD9A8;
+Reference = P4;
+ValeurCmp = 5V;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CD8A3;
+Reference = P5;
+ValeurCmp = GND;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /551CC4F8;
+Reference = U1;
+ValeurCmp = NCP1117ST33T3G;
+IdModule  = myelin-kicad:SOT-223-LDO-1117LV;
+EndCmp
+
+EndListe

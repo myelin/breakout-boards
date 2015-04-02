@@ -1,0 +1,3 @@
+[submodule "libs/myelin-kicad-libraries"]
+	path = libs/myelin-kicad-libraries
+	url = git@github.com:myelin/myelin-kicad-libraries
