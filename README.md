@@ -20,6 +20,10 @@ An SWD connector, and a bunch of pin headers.  This lets you:
 * Connect a tool with an SWD connector (J-Link, most ARM dev boards) to a microcontroller which only exposes SWDIO/SWCLK/nRESET on headers.
 * Connect an SWD tool with a pin header (on-board ST-LINK on STM32 DISCOVERY boards, Arduino running the mchck "swduino" sketch) to a board with an SWD connector.
 
+## 50-to-100
+
+Simple breakout to convert a 2x5 100 mil thru-hole header to a 2x5 50 mil SMD header.  Like swd-to-wires, but without the assumption of a particular pinout.
+
 ## usb-5v-3v3
 
 Very simple power supply, to make it easy to get 5V and 3.3V from a spare USB port.
