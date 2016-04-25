@@ -34,3 +34,7 @@ Requires:
 * 2x6 0.1" pin header
 
 Alternatively, solder a JST-PH Li-Po battery connector onto the USB GND/5V pin holes, and a lower dropout voltage regulator like the SOT-89-8 MCP1700T-3302E/MB, to get 3.3V from a battery.
+
+## esp8266-jtag
+
+Breakout board for ESP8266 ESP-12E module, with JTAG support.
