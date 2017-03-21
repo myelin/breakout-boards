@@ -4,6 +4,8 @@ Various simple breakout boards for electronic prototyping, from Phillip Pearson.
 
 https://github.com/myelin/breakout-boards
 
+Released under the MIT license; see the LICENSE file for details.
+
 ## avr-isp-x2
 
 Two 2x3 headers, wired together.  I made this to retrofit proper AVR ISP headers to projects on breadboard.
