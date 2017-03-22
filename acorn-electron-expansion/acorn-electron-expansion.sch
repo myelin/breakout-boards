@@ -656,7 +656,7 @@ U 1 1 58D25E8C
 P 9775 4800
 F 0 "U6" H 9775 7300 60  0000 C CNN
 F 1 "scarab_mini_spartan_6_lx25" V 9775 6400 60  0000 C CNN
-F 2 "myelin-kicad:scarab_mini_spartan_6_lx25" V 10025 6650 60  0000 C CNN
+F 2 "myelin-kicad:scarab_mini_spartan_6_lx25" H 8825 4650 60  0000 C CNN
 F 3 "" H 8825 4650 60  0000 C CNN
 	1    9775 4800
 	1    0    0    -1  
@@ -690,4 +690,89 @@ Wire Wire Line
 	9725 2000 9725 800 
 Text Label 9725 2150 3    60   ~ 0
 5V_scarab
+Text Label 9075 800  2    60   ~ 0
+nASSERT_nRDY
+Text Label 9075 950  2    60   ~ 0
+nASSERT_nIRQ
+Text Label 9075 1100 2    60   ~ 0
+nASSERT_nNMI
+Text Label 9075 1850 2    60   ~ 0
+RnW_3V
+Text Label 9075 1700 2    60   ~ 0
+16MHZ_DIV13_3V
+Text Label 9075 1400 2    60   ~ 0
+nRST_3V
+Text Label 9075 1550 2    60   ~ 0
+PHI0_3V
+Text Label 9075 1250 2    60   ~ 0
+16MHZ_3V
+Text Label 9075 2000 2    60   ~ 0
+nRDY_3V
+Text Label 9075 3200 2    60   ~ 0
+D0_3V
+Text Label 9075 3050 2    60   ~ 0
+D1_3V
+Text Label 9075 2900 2    60   ~ 0
+D2_3V
+Text Label 9075 2750 2    60   ~ 0
+D3_3V
+Text Label 9075 2600 2    60   ~ 0
+D4_3V
+Text Label 9075 2450 2    60   ~ 0
+D5_3V
+Text Label 9075 2300 2    60   ~ 0
+D6_3V
+Text Label 9075 2150 2    60   ~ 0
+D7_3V
+Text Label 9075 3650 2    60   ~ 0
+A15_3V
+Text Label 9075 3800 2    60   ~ 0
+A14_3V
+Text Label 9075 3950 2    60   ~ 0
+A13_3V
+Text Label 9075 4100 2    60   ~ 0
+A12_3V
+Text Label 9075 4250 2    60   ~ 0
+A11_3V
+Text Label 9075 4400 2    60   ~ 0
+A10_3V
+Text Label 9075 4550 2    60   ~ 0
+A9_3V
+Text Label 9075 4700 2    60   ~ 0
+A0_3V
+Text Label 9075 3350 2    60   ~ 0
+DATA_nOE
+Text Label 9075 3500 2    60   ~ 0
+DATA_READ
+Text Label 9075 5900 2    60   ~ 0
+A8_3V
+Text Label 9075 5750 2    60   ~ 0
+A7_3V
+Text Label 9075 5600 2    60   ~ 0
+A6_3V
+Text Label 9075 5450 2    60   ~ 0
+A5_3V
+Text Label 9075 5300 2    60   ~ 0
+A4_3V
+Text Label 9075 5150 2    60   ~ 0
+A3_3V
+Text Label 9075 5000 2    60   ~ 0
+A2_3V
+Text Label 9075 4850 2    60   ~ 0
+A1_3V
+Text Label 4600 6775 0    60   ~ 0
+5V_scarab
+Text Label 4600 6675 0    60   ~ 0
+5V
+$Comp
+L CONN_01X02 P3
+U 1 1 58D25ACD
+P 4400 6725
+F 0 "P3" H 4400 6875 50  0000 C CNN
+F 1 "5V / 5V0" V 4500 6725 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" H 4400 6725 50  0000 C CNN
+F 3 "" H 4400 6725 50  0000 C CNN
+	1    4400 6725
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
