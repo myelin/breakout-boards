@@ -1,4 +1,4 @@
-update=Monday, March 20, 2017 'PMt' 10:17:08 PM
+update=Wednesday, March 22, 2017 'AMt' 12:38:50 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=/Users/philp/Dropbox/breakout-boards/libs/myelin-kicad-libraries/74hct
 LibName32=/Users/philp/Dropbox/breakout-boards/libs/myelin-kicad-libraries/acorn_electron_expansion_connector
 LibName33=/Users/philp/Dropbox/breakout-boards/libs/myelin-kicad-libraries/c0805
 LibName34=/Users/philp/Dropbox/breakout-boards/libs/myelin-kicad-libraries/r0805
+LibName35=/Users/philp/Dropbox/breakout-boards/libs/myelin-kicad-libraries/scarab_mini_spartan_6_lx25
