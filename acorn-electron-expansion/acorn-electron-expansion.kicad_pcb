@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 45.247199 34.747199 254.752801 155.000001)
     (thickness 1.6)
-    (drawings 21)
+    (drawings 22)
     (tracks 641)
     (zones 0)
     (modules 19)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 1.016)
+    (last_trace_width 0.1778)
     (user_trace_width 0.254)
     (user_trace_width 0.508)
     (user_trace_width 0.762)
@@ -1499,6 +1499,9 @@
       (net 4 /GND))
   )
 
+  (gr_text "pp@myelin.co.nz\n\nhttp://www.myelin.co.nz/\n\nhttp://github.com/myelin" (at 151.31 113.69) (layer B.SilkS)
+    (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
+  )
   (gr_text 5V (at 167.82 68.24 90) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
